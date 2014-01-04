@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/tab_holder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <TextView
+            android:id="@+id/tab_home_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/pressed_aip" />
+
+        <TextView
+            android:id="@+id/tab_home_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medium Text"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/pressed_aip" />
+
+        <TextView
+            android:id="@+id/tab_home_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+</ScrollView>

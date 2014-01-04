@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="5dp"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Frequently Asked Questions (FAQ)"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/pressed_aip" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="FAQ has been arranged under significant stages:"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/faq_content_stages"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="FOR BUYING"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Pre-Exchange:"
+            android:textColor="@color/pressed_aip" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Please Note: Pre-exchange is not legally binding on the seller or the buyer."
+            android:textStyle="italic" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is a Conveyancer?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: In law, Conveyancer is a licensed and qualified professional who does Conveyancing."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Why does it take 42days to settle? Why not only 3days or say 100days?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: It has been tested for over at least 50 years by many legal practitioners. In order to do a proper conveyancing with minimal to no risk to all parties, you need to have about 42 days."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What should I do before I sign a contract to purchase a property (house/unit/land)?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: The best thing you can do is contact your conveyancer early. Email to him the contract and ask him to review it with care. If for some reason you are unable to obtain the contract yourself from the salesman, contact your conveyancer and they should be able to get it for you with ease. All good real estate agents now should be able to email the full contract to anyone within minutes."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What are those pre-inspection reports? Is it required? Is it important before signing a contract to buy property?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: &quot;Building Report&quot;, &quot;Pest Report&quot;, &quot;Strata Report&quot; and &quot;ID Survey are good to have."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is &quot;holding deposit&quot;? Do I need to deposit to secure the property?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: Holding deposit is only an invention made by agents to hook-up a possible buyer/purchaser. There is no legal obligation for the vendor to sell at this point and also the purchaser has no legal obligation to buy the property. Holding deposit is meaningless in the legal sense."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is gazumping?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Many buyers feel disappointed to find out that their offer has not been accepted and that they will get their full refund. They feel like they have been &quot;jilted&quot;. When a seller accepts a verbal offer from one potential buyer, then accepts a higher offer from someone else, this is known as gazumping. Gazumping is perfectly legal. Welcome to the real world!"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="How would I know that the property I&apos;d like to buy will not be offer and/or sold to anyone else and that I could say I have the hold of the property?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: When you or your conveyancer have the hard contract signed by the vendor. The contract is dated and a small deposit has been paid to the real estate agent then you have secured the property."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="EXCHANGE"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/pressed_aip" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is Section 66W?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: The waiving of the Cooling off Period, which means the purchaser cancel his rights of the Cooling off Period."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="When to give a section 66W and when not to give one?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="The sweetest thing for a dog is a bone and the sweetest thing to a salesman is a section66W certificate."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is a Land Tax?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: Land Tax is literally a tax on the land collectable on the person (entity) who is in possession of the property. In NSW, it is levied on the owner as at midnight on 31 December of each year."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is stamp duty?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Stamp Duty is also another form of a tax imposed upon purchasing a property (real property). There are exemptions where you do not have to pay and this policy changes constantly. The best place to check is with the Office of State Revenue NSW for updates."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is GST in real estate?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="GST is also anotherform of a tax as the name implies - Goods and Services Tax - it is collected when purchasing property when it involves Goods and/or Services. In general, residential land has No GST. (If you operate as a business in buying and selling, then GST will apply to you)."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What does &quot;exchange&quot; means?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: Exchange is defined as the situation where the vendor and purchaser exchange contracts with the following points(literally means swapping of contracts):"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/faq_change"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Can I cancel the contract after the exchange?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: If you are a purchaser, yes, if no section66W was given and you are under the cooling off period. If you choose to rescind after exchange of contract under cooling off period, you will lose 0.25% of the contract price to the vendor. No reason has to be given for the rescission."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView37"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is the meaning and significance of Clause 2.5?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: Clause 2.5 of the contract gives the vendor the right to terminate the contract if the deposit is not paid on time or if the cheque for the deposit is not honoured on presentation."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView39"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="COOLING OFF"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/pressed_aip" />
+
+        <TextView
+            android:id="@+id/textView40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is cooling off period?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: Cooling off Period is the span of time where the purchaser and/or buyer can cancel the contract they entered into without any reason and losses 0.25% of the total purchase price to the vendor/seller."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What if the loan is not yet unconditional and the vendor refuses to provide any extension of the cooling off period?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="This is tough. You have no choice but to rescind the contract as the risk is too high. (Vendor will sue you for more than 10% of the purchase price if you cannot settle as your loan has been or will be rejected after exchange)."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="What is/are the things that I need to do during the cooling off period?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView45"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Answer: First and foremost you must get your loan approved. Remember your partner in the purchase is the bank as in most case they provide 80% of the money. So get your partner involved from day one."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Other things to consider are:"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="@string/faq_others"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Home loan is not yet approved, what must I do?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="@string/faq_what_must_i_do"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Pre-Settlement"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/pressed_menu" />
+
+        <TextView
+            android:id="@+id/textView51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="What is a Transfer and Who will prepare the &quot;transfer&quot;?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Answer: The purchaser&apos;s conveyancer will prepare and post to the vendor&apos;s conveyancer for the signature of the vendor and is normally made after the cooling- off period ends."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Post-Settlement"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/pressed_menu" />
+
+        <TextView
+            android:id="@+id/textView54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="What is an order on agent?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Answer: Order on Agent is a letter to agent (Sales Agent) informing that the matter has settled and that - they can now account the deposit that they are holding to the vendor."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Where can I get the keys for the property I just bought, after the settlement?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Answer: The Sales Agent, and if there&apos;s no Agent intervention, the Vendor&apos;s conveyancer. You can ring the agent to arrange where and when you can take the key after your Conveyancer called you telling you that the matter has settled."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="FOR SELLING"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/textView59"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="What must I do/need if I&apos;m going to sell my property?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView60"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="@string/faq_what_must_selling"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="What is the difference between an exclusive agency and an open agency?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="@string/faq_diff"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView63"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Who holds the deposits?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView64"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Answer: The agent (real property agent) and in case that there is no agent involve, the vendor&apos;s conveyancer."
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView65"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="Who will process the discharge of mortgage? What is it?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="@string/faq_mortgage"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView67"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="What is that so called &quot;section 109 Certificate&quot;? Who order it, and who pays for it?"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView68"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:paddingLeft="20dp"
+            android:text="@string/faq_section"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+
+</ScrollView>

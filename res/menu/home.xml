@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_refresh" android:showAsAction="ifRoom" android:icon="@drawable/ic_menu_refresh"></item><item android:id="@+id/home_dropdown" android:icon="@drawable/abs__ic_menu_moreoverflow_holo_dark" android:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/how" android:title="@string/home_how"/>
+            <item android:id="@+id/what" android:title="@string/home_what"/>
+            <item android:id="@+id/how_start" android:title="@string/home_how_start"/>
+            <item android:id="@+id/benefits" android:title="@string/home_benefits"/>
+        </menu>
+    </item>
+
+</menu>

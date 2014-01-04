@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BWLegal</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="take_study">Study Quiz</string>
+    <string name="take_quiz">Take Quiz</string>
+    
+    <string name="home_how">How can you help the environment?</string>
+     <string name="home_what">What is good with online conveyancing?</string>
+    <string name="home_how_start">How will you start?</string>
+    <string name="home_benefits">Benefits you can get!</string>
+    
+    <string name="studies_basic_conveyancing">Basic Conveyancing</string>
+    <string name="studies_for_purchasers">For Purchasers</string>
+    <string name="studies_for_vendors">For Vendors</string>
+    <string name="studies_advantages_disadvantages">Advantages and Disadvantages</string>
+    
+    <string name="quiz_basic_conveyancing">Basic Conveyancing Quiz</string>
+    <string name="quiz_buying">Buying Quiz</string>
+    <string name="quiz_selling">Selling Quiz</string>
+    <string name="quiz_buy_sell">Buying and Selling Quiz</string>
+    
+    <string name="faqs_buying">For Buying</string>
+    <string name="faqs_selling">For Selling</string>
+    
+    <string name="contact_details">Contact Details</string>
+    <string name="contact_query">Send Us Query!</string>
+    
+    <string name="tab_home_how">Online Conveyancing is an environment friendly service. Using this service will eliminate paper bills, statements, cheques, and other that involved paper works. It helps you save petrol that harm the environment for transactions are done by phone calls, faxing and emails. As a result, it also helps save million of trees and avoiding billions of tons greenhouse gases a year. It would produces much less carbon dioxide and therefore better for the environment.</string>
+	<string name="tab_home_what">Conveyancing is at its best when it is online and with the aid of a telephone, the postman and a knowledgeable and caring person helping you all the way. The knowledgeable person is accessible at almost any time of the day.
+We have tested the system and it is safe, convenient, time saving, money saving and economical. You have access to your matter 24/7. Distance is no longer a tyranny. It does not matter whether you live in Wagga Wagga or Sydney; you have the same and equal advantage. There is no longer a need to make appointments. It is cost effective as you do not need to pay for petrol, parking fines or any other costs. It is also friendly on our fragile environment. Best of all you get to save big money. How big? The saving can be half of the traditional conveyancing method.</string>
+	<string name="tab_home_how_start">Take the IQ Tests below to avail special discounts of our services. After taking your selected IQ test, the system will check whether you pass or not. The system will then give you an option to send the results to us or to your personal email if you decided to send the result later.</string>
+	<string name="tab_home_benefits_contracts"> Fast Contracts |
+Fast contracts are done within 5 to 10 days from the time you pay us the upfront payment for the preparation of Contract of Sale.
+ </string>
+    <string name="tab_home_benefits_service">Faster Service | Contract of Sale will immediately forwarded to your agent for marketing. </string>
+ <string name="tab_home_benefits_hassle">Less Hassle | No need to attend settlement as we have our settlement agent that will act on your behalf you will just have to wait on our call on the confirmation that your matter already settled and the proceed of your sale is already available.
+ </string>
+ <string name="tab_home_benefits_services">Great Services | Great Conveyancing Experience and Technology\n
+Great for Real Estate Salesmen\n
+Great for Property Developers\n
+Great for Frequent Buyers/Sellers\n
+Great for the Environment </string>
+<string name="tab_home_benefits_cost"> Low Cost | Low Cost </string>
+
+<string name="tab_basic_c_content">"Conveyancing steps are so simple if you have the right information. The right information is here. It is perceived to be hard because nobody told them it is easy. Therefore there is a lot of confusion out there. It is best that you do not listen to them. Only listen to people who are doing conveyancing for a living.
+In most cases, conveyancing always involved the Sales Agent, so it is also important to know their function and how they work in relation to the stages and processes in Conveyancing.
+The law governing real estate agent is known as Property, Stock and Business Act 2002. In section 63 it state that the real estate agent must not offer residential property for sale unless there is a complete contract in their business premise at all time. Real estate agents are not authorised to draft contract of sale of land. Licensed conveyancer is the one responsible in putting the contract of sale of land together. Once it is done the conveyancer will forward it to the agent and marketing can officially begin.
+Salesmen are allowed to do the following with the contract: On the front page in BOLD BLACK BORDER, the salesman may: \n
+In General
+Insert details of the purchaser's name and address
+Write the name of the purchaser's conveyancer, their address, phone and fax numbers.
+Write down the purchase price and the date
+Insert or delete the inclusions (things like stove, range hood, blinds etc)
+Participate in the exchange of contracts (unless you have written them a letter not authorising them to do it and instead let the conveyancer do the exchange)
+The above law can be found in section 64 of the Property, Stock and Business Act 2002
+The meaning of exchange in simple terms is that the property is sold with a condition. The condition is known as the Cooling off Period.
+A Cooling off period is a right of the purchaser to rescind from the contract at anytime before 5P.M. on the fifth business day after the day on which the contract are exchanged. Purchaser does not need to give you an explanation.
+If the purchaser chooses to rescind the contract within the cooling off period, the vendor may keep the 0.25 percent of the purchase price.
+Often, when the purchaser's finance is not 100 percent approved, they will ask for an extension of the cooling off period.
+The vendor may grant or may not grant an extension of the cooling off period.
+In the exchange process there will be 2 identical contracts.
+The buyer sign on the one contract
+The vendor sign on the counter or duplicate contract
+Deposit is taken, usually 0.25 percent of the purchase price.
+Both contracts are dated.
+The vendor's contract is given to the purchaser conveyancer and the purchaser's contract is given to the vendor's conveyancer. It is a 'swap' of contracts.
+Once all the above 4 points are done, it is known as contracts have taken place."</string>
+
+<string name="tab_for_purchasers_content">"The most important for the purchaser to take into consideration is the fund to complete the purchase and to cover all the expenses that might incur in the process. Purchaser must put first in mind that having a Home Loan will take time and even having a "formal approval" for a home loan will eat up the 5 business days given in the standard contract.
+For a safe practice, only exchange contract when you are sure enough that finances would be ready on settlement.
+The meaning of exchange in simple terms is that the property is sold with a condition. The condition is known as the Cooling off Period.
+A Cooling off period is a right of the purchaser to rescind from the contract at any time before 5P.M. on the fifth business day after the day on which the contract was made. Purchaser does not need to give you an explanation.
+If the purchaser chooses to rescind the contract within the cooling off period, the vendor may keep the 0.25 percent of the purchase price.
+Often, when the purchaser's finance is not 100 percent approved, they will ask for an extension of the cooling off period.
+The vendor may grant or may not grant an extension of the cooling off period.
+In the exchange process there will be 2 identical contracts.
+The buyer sign on the one contract.
+The vendor sign on the counter or duplicate contract.
+Deposit is taken, usually 0.25 percent of the purchase price.
+Both contracts are dated.
+The vendor's contract is given to the purchaser conveyance and the purchase's contract is given to the vendor's conveyance. It is a "swap" of contracts.
+Once all the above 4 points are done, it is known as contracts have taken place.
+Often, we heard the word "Holding Deposit" and is mostly been used as per say to 'hold the property'. This is not true, as the above regarding the exchange of contract should take place before the purchaser can say that they hold the property and secured that it the property will be sold to them."</string>
+
+<string name="tab_for_vendors_content">"It is advisable for a vendor to have Sales Agent acting on their behalf for a reason that Sales Agent had a wider network of known people who might want to purchase a property in the area where the property is located.
+It is known that Sales Agent cannot advertise property for sale without a contract and same also with the Vendor; they must secure first a contract for sale from a qualified and trusted entity before putting a property for sale.
+Sales steps are:
+Contact us if you decide to sell. (Seller's job)
+Decide which is the best real estate agent to do the marketing for you. (Seller's job)
+Fill out our simple questionnaire which we can email to you. (Seller's job)
+Pay us a small fee so we can do the entire necessary search with the relevant government bodies such as the Land Title Office. (Seller's job)
+Based on the questionnaire that you have answered, we will prepare a complete contract and will forward it to your agent and a copy will be emailed to you between 5 to 10 working days. (Our job)
+You need to provide us copy of your council rate of the proposed property for sale and copy of your home loan statement if property is on mortgage.
+We also need copy of proof of ID's of the registered proprietor/s of the property like driver's licence and passport for the verification of correct spelling of names for the transfer preparation.
+Once the agent find a genuine buyer, you attend to their office to sign contract to formalise the acceptance of the sale and exchange the contract. (Seller's job)
+In the meantime, there could be some request from the purchaser through their conveyancer. We will keep you informed of any communications be either email or phone calls. (Everyone's job)
+Once the cooling off period comes to an end, we will discharge your mortgage and we are ready for settlement (if property you are selling is on mortgage). We will forward a Discharge Authority form by email to you, all you have to do is sign it and return it by email. (Your job plus our job)
+About 3 to 5 days after exchanged, we will receive an original transfer by snail mail from the purchaser�s conveyancer. We will forward it to you by express mail (Yellow Envelope) or ordinary postage whichever you choose. 
+
+You have to sign where indicated and have someone witness your signature. 
+
+For the express mail you need to pay $5.50 per postage. There will be 3 postage (Sending to you the Transfer to sign, sending back to us the signed Transfer and sending to you the cheque on the proceed of the sale). You do not need to pay for the ordinary postage as it has been pre-paid by us.
+You get ready to vacate the property as you only have about 1 month left to settlement. (Seller's job)
+We will arrange settlement with all parties and you. (Our job in consultation with you)
+Settlement takes place at the confirmed date, place and time, and you do not need to attend. A specialist settlement agent will attend on our behalf.
+After settlement you attend to your real estate agent to collect the 10 percent deposit that was put down as down payment. The agent will deduct their commission and any fees that were agreed and the balance will be given to you. (Seller's job)
+We will post the balance of settlement money that we receive at settlement to your nominated address the following working day and you normally will get it 2 days later. It will be posted by express mail. (Our job)
+There is nothing else for you to do, but if you still have any issues, call or email us and we will solve it for you.
+Following the above steps will make the whole conveyancing process smooth and problem free."</string>
+<string name="col_string">"\n \n \n Rent \n \n \n \n \n \n \n Fit out \n \n \n Staff \n \n \n \n \n \n \n \n \n Electricity \n Parking \n \n \n Opening hour \n \n Convenient \n \n \n Easy access \n \n Distance \n \n Savings \n \n Environment \n \n Disadvantage \n \n \n"</string>
+<string name="modern_string">"Modern \n Conveyancing \n \n Much Cheaper \n \n \n \n \n \n \n Much Cheaper \n \n \n Less  \n \n \n \n \n \n \n \n \n Less \n \n \n \n No Required \n \n access online 24/7 \n \n \n EXTREMELY \n \n EXTREME EASE \n \n Not an issue \n \n Save plenty of money \n Best \n \n slightly impersonal \n \n  "</string>
+<string name="trad_string">"Traditional Method \n \n \n Expensive rent as Sydney has one of the highest rent in the world. Typical office in Sydney will cost $130,000 a year \n \n Fit out on average will cost $150,000 \n \n Requires more as you personal meetings requires much planning appointments and you may encounter problems in getting to the meeting \n \n More \n \n This can be a problem \n \n Opening hours is limited \n \n Not convenient \n \n Difficult \n \n Can be a problem \n \n Cannot save \n \n Worst \n \n More personal as you can get to shake hands"</string>
+
+<string name="faq_content"></string>
+
+<string name="faq_content_stages">Pre-exchange\nExchange\nCooling off\nPre-settlement\nPost-settlement</string>
+<string name="faq_change">a. The contract holds by the purchaser bears the signature of the vendor (and in return) \n
+b. The contract holds by the vendor bears the signature of the purchaser. \n
+c. Both contracts are dated (with the same date) \n
+d. Deposited, (normally 10% of the total price). \n</string>
+
+<string name="faq_others">* The contract must be fair (your conveyancer can help you in reading and finding out any problems and then help you in negotiating a fairer agreement) \n
+* Get your pest and building report done before or at the latest before the cooling off period. The condition of the reports will help you decide whether to purchase. \n
+* You conveyancer will have a list of contacts of inspectors that they can recommend to you. \n</string>
+
+<string name="faq_what_must_i_do">Answer: \n 1. Ask your conveyancer to request an extension of the cooling off period,\n
+2. Simultaneously you push your banker to hurry up with their process to formal approval.</string>
+
+<string name="faq_what_must_selling">Answer: \n
+First step is to contact your conveyancer and they will prepare the correct contract of sale for you. Once contract is done, your conveyancer will post it to your nominated agent. \n
+Second step is to contact an agent who is a member of the real estate institute of NSW to do your marketing. \n
+The law states that you must have a contract of sale in the premise of your real estate agents before they are allowed to do any marketing. Strictly speaking your agent is not even allowed to "whisper" in marketing your property if they do not have a contract of sale.</string>
+
+<string name="faq_diff">Answer: An "open listing" is a non-exclusive real estate contract in which more than one agent may be employed to sell a property, including the owners themselves. The owner of the home agrees to pay a commission to whoever procures a ready and willing buyer first. \n
+An exclusive agency agreement is an agreement where a Sales agent have the exclusive commission regardless who introduces the buyer to the property. Even if you are the vendor finds a buyer yourself, you would still have to pay the salesman his commission. \n
+Either of the two have the advantages and the disadvantages.\n
+The agent would 100% of the time prefers an exclusive agency for obvious reason that they want the commission. Their argument is that if it is not an exclusive agency, they would not work as hard as they are not totally focused on your property.</string>
+
+<string name="faq_mortgage">"Answer: Vendor's conveyancer. \n
+Discharge of Mortgage (to get rid of the mortgage). It must be discharged after the cooling-off Period ends. \n
+There is a form which your conveyancer will fill out and you have to sign. The form will simply inform your bank that the property has been sold that that they need to get the documents in order and get ready for settlement. \n
+Once you return the signed form (by email preferred), your conveyancer will notify your lender of the sale. \n
+Your conveyancer will liaison with your bank, the purchaser's conveyancer and you in anticipation of settlement."</string>
+<string name="faq_section">"Answer: It is a Certificate from the Strata Owners Corporation showing Administration Fee, Sinking Fee, and Special Levy. (Applicable only to strata titled property.) \n
+Vendor's conveyancer applies for it to strata Managing Agent and the purchaser will have (liable) to pay for it as it is standard practice to do so. \n
+It is part of the settlement Adjustment where all the necessary levies will be calculated from as for what amount is to be paid by the purchaser. \n
+By having an adjustment, so that all money owning will be paid at settlement. New owner will not be liable for the previous owner."</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_refresh" android:showAsAction="always" android:icon="@drawable/ic_menu_refresh"></item><item android:id="@+id/contact_menu" android:showAsAction="ifRoom|withText" android:icon="@drawable/abs__ic_menu_moreoverflow_holo_dark">
+        <menu>
+            <item android:id="@+id/contact_d" android:title="@string/contact_details"/>
+            <item android:id="@+id/contact_query" android:title="@string/contact_query"/>
+        </menu>
+    </item>
+        (((TitlesAndContents) l.getAdapter().getItem(position)));(((TitlesAndContents) l.getAdapter().getItem(position)));
+    
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_refresh" android:showAsAction="always" android:icon="@drawable/ic_menu_refresh"></item><item android:id="@+id/drop_down" android:icon="@drawable/abs__ic_menu_moreoverflow_holo_dark" android:showAsAction="ifRoom">
+        <menu>
+            <item android:id="@+id/studies_bc" android:title="@string/studies_basic_conveyancing"/>
+            <item android:id="@+id/studies_fp" android:title="@string/studies_for_purchasers"/>
+            <item android:id="@+id/studies_fv" android:title="@string/studies_for_vendors"/>
+            <item android:id="@+id/studies_ad" android:title="@string/studies_advantages_disadvantages"/>
+        </menu>
+    </item>
+    
+    
+
+</menu>
